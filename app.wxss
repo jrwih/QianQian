@@ -8,3 +8,12 @@
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+.page{
+  background: linear-gradient(#2eccc0,#fff);
+}
+.icon {
+  width: 4rem; height: 4rem;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}

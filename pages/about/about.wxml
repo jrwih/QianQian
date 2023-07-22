@@ -1,0 +1,18 @@
+<!--pages/about/about.wxml-->
+<view class="page">
+  <view class="weui-article">
+    <view aria-role="heading" aria-level="4" class="weui-article__h1">关于我们</view>
+    <view class="weui-article__p">
+      芊芊草心理咨询公司诞生于2020年6月18日，由创始人平儿十年磨一剑倾心创办。在心理咨询技术的十多年学习和实践中，平儿与来访者结盟咨询关系疗愈健康心理，用不同形式陪伴无数的心理学爱好者用精神分析寻根求源，用后现代叙事疗法集结力量和资源。
+    </view>
+    <view class="weui-article__p">
+      “带导求学者情绪成年、帮助求助者心理成长，点燃心灯，照亮每个珍惜生命，渴望美好生活的人”是平儿创办芊芊草心理的初心。
+    </view>
+    <view class="weui-article__p">
+      芊芊草心理经营理念：芊芊青草，生生不息；与你携手，共赴晴天。
+    </view>
+    <view class="weui-article__p">
+      星星之火，可以燎原，芊芊草心理期待与各类社会组织和团体共同合作推广和发展心理事业。愿天下安康！
+    </view>
+  </view>
+</view>

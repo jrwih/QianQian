@@ -1,11 +1,15 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/event01/event01",
+    "pages/event02/event02",
+    "pages/event03/event03",
+    "pages/about/about",
     "pages/logs/logs"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#2ecc71",
     "navigationBarTitleText": "芊芊草",
     "navigationBarTextStyle": "black"
   },

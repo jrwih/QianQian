@@ -8,17 +8,50 @@ Page({
     swiperList : [
       {
         id : 1,
-        url :'https://mp-adb61297-6bf0-439f-bbc0-819881e8b3ee.cdn.bspapp.com/QianQian/static/event01.png',
-        pages : ''
+        img :'https://mp-adb61297-6bf0-439f-bbc0-819881e8b3ee.cdn.bspapp.com/QianQian/static/event01.png',
+        url : '/pages/event01/event01'
       },{
         id : 2,
-        url :'https://mp-adb61297-6bf0-439f-bbc0-819881e8b3ee.cdn.bspapp.com/QianQian/static/event02.png',
-        pages : ''
+        img :'https://mp-adb61297-6bf0-439f-bbc0-819881e8b3ee.cdn.bspapp.com/QianQian/static/event02.png',
+        url : '/pages/event02/event02'
       },{
         id : 3,
-        url :'https://mp-adb61297-6bf0-439f-bbc0-819881e8b3ee.cdn.bspapp.com/QianQian/static/event03.png',
-        pages : ''
+        img :'https://mp-adb61297-6bf0-439f-bbc0-819881e8b3ee.cdn.bspapp.com/QianQian/static/event03.png',
+        url : '/pages/event03/event03'
       },
+    ],
+    gridList : [
+      {
+        id : 0,
+        icon : '/static/icon/S_jiankangzixun.svg',
+        url : '',
+        label : '心理健康咨询'
+      },{
+        id : 1,
+        icon : '/static/icon/S_xinli.svg',
+        url : '',
+        label : '心理辅导'
+      },{
+        id : 2,
+        icon : '/static/icon/S_xinlizhuanqu.svg',
+        url : '',
+        label : '课程内容'
+      },{
+        id : 3,
+        icon : '/static/icon/S_ertongxinli.svg',
+        url : '',
+        label : '儿童心理辅导'
+      },{
+        id : 4,
+        icon : '/static/icon/S_jujiajiance.svg',
+        url : '',
+        label : '家庭心理辅导'
+      },{
+        id : 5,
+        icon : '/static/icon/S_qingwenzhen.svg',
+        url : '/pages/about/about',
+        label : '关于我们'
+      }
     ]
   },
 
