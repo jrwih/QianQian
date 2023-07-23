@@ -1,18 +1,42 @@
 <!--pages/about/about.wxml-->
 <view class="page">
   <view class="weui-article">
-    <view aria-role="heading" aria-level="4" class="weui-article__h1">关于我们</view>
-    <view class="weui-article__p">
-      芊芊草心理咨询公司诞生于2020年6月18日，由创始人平儿十年磨一剑倾心创办。在心理咨询技术的十多年学习和实践中，平儿与来访者结盟咨询关系疗愈健康心理，用不同形式陪伴无数的心理学爱好者用精神分析寻根求源，用后现代叙事疗法集结力量和资源。
+    <view class="weui-article__h1">关于我们</view>
+    <view class="weui-article__section">
+      <view class="weui-article__h2">公司简介</view>
+      <view class="weui-article__p">
+        芊芊草心理咨询公司诞生于2020年6月18日，由创始人平儿十年磨一剑倾心创办。在心理咨询技术的十多年学习和实践中，平儿与来访者结盟咨询关系疗愈健康心理，用不同形式陪伴无数的心理学爱好者用精神分析寻根求源，用后现代叙事疗法集结力量和资源。
+      </view>
+      <view class="weui-article__p">
+        “带导求学者情绪成年、帮助求助者心理成长，点燃心灯，照亮每个珍惜生命，渴望美好生活的人”是平儿创办芊芊草心理的初心。
+      </view>
+      <view class="weui-article__p">
+        芊芊草心理经营理念：芊芊青草，生生不息；与你携手，共赴晴天。
+      </view>
+      <view class="weui-article__p">
+        星星之火，可以燎原，芊芊草心理期待与各类社会组织和团体共同合作推广和发展心理事业。愿天下安康！
+      </view>
     </view>
-    <view class="weui-article__p">
-      “带导求学者情绪成年、帮助求助者心理成长，点燃心灯，照亮每个珍惜生命，渴望美好生活的人”是平儿创办芊芊草心理的初心。
-    </view>
-    <view class="weui-article__p">
-      芊芊草心理经营理念：芊芊青草，生生不息；与你携手，共赴晴天。
-    </view>
-    <view class="weui-article__p">
-      星星之火，可以燎原，芊芊草心理期待与各类社会组织和团体共同合作推广和发展心理事业。愿天下安康！
+    <view class="weui-article__section">
+      <image class="weui-article__img" src="https://mp-adb61297-6bf0-439f-bbc0-819881e8b3ee.cdn.bspapp.com/QianQian/static/figure.png" mode="aspectFit"/>
+      <view class="weui-article__h2">创始人简介</view>
+      <view class="weui-article__ol">
+        <view class="weui-article__li">
+          二级心理咨询师：持续10多年从事精神分析流派、心理动力学和焦点、叙事疗法的心理咨询技术学习与应用推广；
+        </view>
+        <view class="weui-article__li">
+          湖州心理及婚姻协会会员、南京心理学会叙事治疗专业委员会委员；
+        </view>
+        <view class="weui-article__li">
+          高级家庭教育指导到师：常年接受青少年心理咨询及父母课堂指导；
+        </view>
+        <view class="weui-article__li">
+          美国注册正面管教家长讲师、“非暴力沟通”宣导师；
+        </view>
+        <view class="weui-article__li">
+          人力资源管理到师：专职港资上市企业人力资源管理20余年。
+        </view>
+      </view>
     </view>
   </view>
 </view>

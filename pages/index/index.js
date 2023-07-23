@@ -33,7 +33,7 @@ Page({
         label : '心理辅导'
       },{
         id : 2,
-        icon : '/static/icon/S_xinlizhuanqu.svg',
+        icon : '/static/icon/S_jiankangjihuatiaozhuandizhi.svg',
         url : '',
         label : '课程内容'
       },{
